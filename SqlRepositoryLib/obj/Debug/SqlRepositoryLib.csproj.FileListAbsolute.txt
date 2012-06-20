@@ -1,0 +1,5 @@
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SqlRepositoryLib\bin\Debug\SqlRepositoryLib.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SqlRepositoryLib\bin\Debug\SqlRepositoryLib.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SqlRepositoryLib\obj\Debug\SqlRepositoryLib.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SqlRepositoryLib\obj\Debug\SqlRepositoryLib.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SqlRepositoryLib\obj\Debug\SqlRepositoryLib.csprojResolveAssemblyReference.cache

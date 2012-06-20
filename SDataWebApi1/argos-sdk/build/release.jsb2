@@ -1,0 +1,201 @@
+{
+  "projectName": "Argos SDK",
+  "licenseText": "",
+  "deployDir": "deploy/",
+  "pkgs": [
+    {
+      "name": "Argos SDK Dependencies",
+      "file": "content/javascript/argos-dependencies.js",
+      "isDebug": true,
+      "fileIncludes": [
+        {
+          "text": "json2.js",
+          "path": "../libraries/"
+        },
+        {
+          "text": "Simplate.js",
+          "path": "../libraries/"
+        },
+        {
+          "text": "sdata-client-dependencies-debug.js",
+          "path": "../libraries/sdata/"
+        },
+        {
+          "text": "sdata-client-debug.js",
+          "path": "../libraries/sdata/"
+        },
+        {
+          "text": "reui.js",
+          "path": "../libraries/reui/"
+        },
+        {
+          "text": "date.js",
+          "path": "../libraries/datejs/build/"
+        }
+      ]
+    },
+    {
+      "name": "Argos SDK",
+      "file": "content/javascript/argos-sdk.js",
+      "isDebug": true,
+      "fileIncludes": [
+        {
+          "text": "Application.js",
+          "path": "../src"
+        },
+        {
+          "text": "ErrorManager.js",
+          "path": "../src"
+        },
+        {
+          "text": "ApplicationModule.js",
+          "path": "../src"
+        },
+        {
+          "text": "_ActionMixin.js",
+          "path": "../src"
+        },
+        {
+          "text": "_CustomizationMixin.js",
+          "path": "../src"
+        },
+        {
+          "text": "_Templated.js",
+          "path": "../src"
+        },
+        {
+          "text": "View.js",
+          "path": "../src"
+        },
+        {
+          "text": "Calendar.js",
+          "path": "../src"
+        },
+        {
+          "text": "Convert.js",
+          "path": "../src"
+        },
+        {
+          "text": "Utility.js",
+          "path": "../src"
+        },
+        {
+          "text": "Format.js",
+          "path": "../src"
+        },
+        {
+          "text": "Detail.js",
+          "path": "../src"
+        },
+        {
+          "text": "FieldManager.js",
+          "path": "../src"
+        },
+        {
+          "text": "_Field.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "EditorField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "TextField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "PhoneField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "LookupField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "SelectField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "BooleanField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "DateField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "DecimalField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "DurationField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "HiddenField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "NoteField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "Signature.js",
+          "path": "../src/Views"
+        },
+        {
+          "text": "SignatureField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "TextAreaField.js",
+          "path": "../src/Fields"
+        },
+        {
+          "text": "Edit.js",
+          "path": "../src"
+        },
+        {
+          "text": "SearchWidget.js",
+          "path": "../src"
+        },
+        {
+          "text": "List.js",
+          "path": "../src"
+        },
+        {
+          "text": "GroupedList.js",
+          "path": "../src"
+        },
+        {
+          "text": "Toolbar.js",
+          "path": "../src"
+        },
+        {
+          "text": "MainToolbar.js",
+          "path": "../src"
+        },
+        {
+          "text": "PersistentStorage.js",
+          "path": "../src"
+        },
+        {
+          "text": "_ServiceMixin.js",
+          "path": "../src"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "src": "../content",
+      "dest": "content",
+      "filters": ".*(\\.css|\\.jpg|\\.png|\\.gif)"
+    },
+    {
+      "src": "../libraries/dojo/dojo",
+      "dest": "content/dojo/dojo",
+      "filters": "(dojo\\.js|acme\\.js)"
+    }
+  ]
+}

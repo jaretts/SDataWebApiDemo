@@ -1,0 +1,10 @@
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\bin\Debug\MobileReportsModelLib.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\bin\Debug\MobileReportsModelLib.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\bin\Debug\MongoDB.Bson.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\bin\Debug\MongoDB.Driver.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\bin\Debug\MongoDB.Bson.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\bin\Debug\MongoDB.Bson.xml
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\bin\Debug\MongoDB.Driver.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\bin\Debug\MongoDB.Driver.xml
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\obj\Debug\MobileReportsModelLib.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MobileReportsModelLib\obj\Debug\MobileReportsModelLib.pdb

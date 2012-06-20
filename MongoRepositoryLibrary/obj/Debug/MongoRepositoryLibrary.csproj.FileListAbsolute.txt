@@ -1,0 +1,13 @@
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MongoRepositoryLibrary.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MongoRepositoryLibrary.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MobileReportsModelLib.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MobileReportsModelLib.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MongoDB.Bson.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MongoDB.Driver.pdb
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\obj\Debug\MongoRepositoryLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\obj\Debug\MongoRepositoryLibrary.dll
+C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\MongoRepositoryLibrary\obj\Debug\MongoRepositoryLibrary.pdb

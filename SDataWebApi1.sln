@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDataWebApi1", "SDataWebApi1\SDataWebApi1.csproj", "{DBA6845A-4935-4DC4-9CDC-3E2E8F47A038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoRepositoryLibrary", "MongoRepositoryLibrary\MongoRepositoryLibrary.csproj", "{CF7E224C-EA8E-4937-952E-DCA26A7C0D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileReportsModelLib", "MobileReportsModelLib\MobileReportsModelLib.csproj", "{8FA34E58-D425-4DE3-BE7D-E909F9693C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA34E58-D425-4DE3-BE7D-E909F9693C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA34E58-D425-4DE3-BE7D-E909F9693C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA34E58-D425-4DE3-BE7D-E909F9693C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA34E58-D425-4DE3-BE7D-E909F9693C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7E224C-EA8E-4937-952E-DCA26A7C0D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7E224C-EA8E-4937-952E-DCA26A7C0D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7E224C-EA8E-4937-952E-DCA26A7C0D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7E224C-EA8E-4937-952E-DCA26A7C0D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA6845A-4935-4DC4-9CDC-3E2E8F47A038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA6845A-4935-4DC4-9CDC-3E2E8F47A038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA6845A-4935-4DC4-9CDC-3E2E8F47A038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA6845A-4935-4DC4-9CDC-3E2E8F47A038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal

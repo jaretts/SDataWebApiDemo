@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="format-detection" content="telephone=no,email=no,address=no" />
+
+    <title>Mobile Reports</title>
+
+    <link rel="apple-touch-icon-precomposed" href="content/images/icon.png" />
+    <link rel="apple-touch-startup-image" href="content/images/loading.png">
+
+    <!-- CSS -->
+    <link type="text/css" rel="stylesheet" href="content/reui/themes/sage-grey/theme.css" />
+    <link type="text/css" rel="stylesheet" href="content/css/base.css" />
+    <link type="text/css" rel="stylesheet" href="content/css/toggle.css" />
+    <link type="text/css" rel="stylesheet" href="content/css/app.css" />
+
+    <!-- JSON -->
+    <script type="text/javascript" src="../../argos-sdk/libraries/json2.js"></script>
+
+    <!-- ReUI -->
+    <script type="text/javascript">
+    reConfig = {
+        autoInit: false,
+        legacyMode: false,
+        showInitialPage: false,
+        updateBackButtonText: false
+    };
+    </script>
+    <script type="text/javascript" src="../../argos-sdk/libraries/reui/reui.js"></script>
+
+    <!-- SData Client Library -->
+    <script type="text/javascript" src="../../argos-sdk/libraries/sdata/sdata-client-dependencies-debug.js"></script>
+    <script type="text/javascript" src="../../argos-sdk/libraries/sdata/sdata-client-debug.js"></script>
+
+    <!-- DateJS -->
+    <script type="text/javascript" src="../../argos-sdk/libraries/datejs/build/date.js"></script>
+
+    <!-- Simplate -->
+    <script type="text/javascript" src="../../argos-sdk/libraries/Simplate.js"></script>
+
+    <!-- Dojo -->
+    <script type="text/javascript" src="../../argos-sdk/libraries/dojo/dojo/dojo.js" data-dojo-config="parseOnLoad:false, async:true, blankGif:'content/images/blank.gif'"></script>
+    <script type="text/javascript">
+    require({
+        baseUrl: "./",
+        packages: [
+        { name: 'dojo', location: '../../argos-sdk/libraries/dojo/dojo' },
+        { name: 'dijit', location: '../../argos-sdk/libraries/dojo/dijit' },
+        { name: 'dojox', location: '../../argos-sdk/libraries/dojo/dojox' },
+        { name: 'Sage/Platform/Mobile', location: '../../argos-sdk/src' },
+        { name: 'Mobile/Reports', location: 'src' }
+    ]});
+    </script>
+
+    <script type="text/javascript">
+    (function() {
+        var application = 'Mobile/Reports/Application',
+            configuration = [
+                'configuration/development'
+            ];
+        require([application].concat(configuration), function(application, configuration) {
+            var localization = [
+                'localization/en'
+            ];
+            require(localization.concat('dojo/domReady!'), function() {
+                var instance = new application(configuration);
+
+                instance.activate();
+                instance.init();
+                instance.run();
+            });
+        });
+    })();
+    </script>
+</head>
+<body>
+</body>
+</html>
