@@ -14,3 +14,19 @@ C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SDataWebApi1\b
 C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SDataWebApi1\bin\Microsoft.Practices.ServiceLocation.xml
 C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SDataWebApi1\bin\Microsoft.Practices.Unity.xml
 C:\Users\jaretts\Documents\Visual Studio 11\Projects\SDataWebApi1\SDataWebApi1\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\SDataWebApi1.dll
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\SDataWebApi1.pdb
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Microsoft.Practices.Unity.dll
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\MobileReportsModelLib.dll
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\MongoRepositoryLibrary.dll
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\MobileReportsModelLib.pdb
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\MongoRepositoryLibrary.pdb
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Microsoft.Practices.Unity.xml
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWebApi1.csprojResolveAssemblyReference.cache
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWebApi1.dll
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWebApi1.pdb

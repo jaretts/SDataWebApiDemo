@@ -27,7 +27,12 @@ namespace WebApiSDataProvider.Controllers
             if (retVal == null)
             {
                 // should have something now 
-                //throw new HttpResponseException(HttpStatusCode.NotFound);
+                throw new HttpResponseException(new HttpResponseMessage
+                {
+                    StatusCode = HttpStatusCode.NotFound,
+                    Content = new StringContent("Resource not found"),
+                    ReasonPhrase = "Resource not found"
+                });
             }
 
             return retVal;
