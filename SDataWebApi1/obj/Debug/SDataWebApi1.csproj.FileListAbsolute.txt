@@ -31,4 +31,3 @@ C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWe
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWebApi1.dll
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWebApi1.pdb
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Sage.SDataHandler.dll
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Sage.SDataHandler.pdb

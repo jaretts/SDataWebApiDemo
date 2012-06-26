@@ -55,6 +55,10 @@
     <Reference Include="MongoDB.Driver">
       <HintPath>..\packages\mongocsharpdriver.1.4.2\lib\net35\MongoDB.Driver.dll</HintPath>
     </Reference>
+    <Reference Include="Sage.SDataHandler, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>libs\Sage.SDataHandler.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.Entity" />
@@ -2541,6 +2545,7 @@
     <Content Include="argos-sdk\libraries\dojo\dojo\resources\LICENSE" />
     <Content Include="argos-sdk\libraries\dojo\dojo\store\README" />
     <Content Include="argos-sdk\libraries\dojo\dojo\_firebug\LICENSE" />
+    <Content Include="libs\Sage.SDataHandler.dll" />
     <Content Include="products\argos-mobilereports\.gitignore" />
     <Content Include="products\argos-mobilereports\LICENSE.Clippy" />
     <None Include="Scripts\jquery-1.6.2-vsdoc.js" />
@@ -2700,10 +2705,6 @@
     <ProjectReference Include="..\MongoRepositoryLibrary\MongoRepositoryLibrary.csproj">
       <Project>{cf7e224c-ea8e-4937-952e-dca26a7c0d9d}</Project>
       <Name>MongoRepositoryLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Sage.SDataHandler\Sage.SDataHandler.csproj">
-      <Project>{43baccbb-e777-449b-87a7-f0fb1a195ce5}</Project>
-      <Name>Sage.SDataHandler</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

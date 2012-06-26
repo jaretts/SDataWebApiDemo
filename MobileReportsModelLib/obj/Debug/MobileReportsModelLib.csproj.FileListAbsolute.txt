@@ -18,3 +18,4 @@ C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\MobileReportsModelLib\bin\Debu
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\MobileReportsModelLib\bin\Debug\MongoDB.Driver.xml
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\MobileReportsModelLib\obj\Debug\MobileReportsModelLib.dll
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\MobileReportsModelLib\obj\Debug\MobileReportsModelLib.pdb
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\MobileReportsModelLib\obj\Debug\MobileReportsModelLib.csprojResolveAssemblyReference.cache
