@@ -5,7 +5,7 @@ using System.Web;
 using System.Runtime.Serialization;
 using System.Net.Http;
 
-namespace WebApiSDataProvider.SData
+namespace Sage.SDataHandler
 {
 
         [DataContract]

@@ -152,11 +152,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SData\SDataCollectionMetadata.cs" />
-    <Compile Include="SData\SDataHandler.cs" />
-    <Compile Include="SData\SDataUriKeys.cs" />
-    <Compile Include="SData\SDataUriUtil.cs" />
-    <Compile Include="SData\SingleResourceMetadata.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="argos-sdk\content\css\base.css" />
@@ -2705,6 +2700,10 @@
     <ProjectReference Include="..\MongoRepositoryLibrary\MongoRepositoryLibrary.csproj">
       <Project>{cf7e224c-ea8e-4937-952e-dca26a7c0d9d}</Project>
       <Name>MongoRepositoryLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sage.SDataHandler\Sage.SDataHandler.csproj">
+      <Project>{43baccbb-e777-449b-87a7-f0fb1a195ce5}</Project>
+      <Name>Sage.SDataHandler</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

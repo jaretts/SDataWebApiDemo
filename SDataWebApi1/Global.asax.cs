@@ -11,7 +11,7 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using WebApiSDataProvider.Controllers;
 using WebApiSDataProvider.DependencyResolvers;
-using WebApiSDataProvider.SData;
+using Sage.SDataHandler;
 using MobileReports.Models;
 using MongoRepository.Repository;
 using Microsoft.Practices.Unity;

@@ -30,3 +30,5 @@ C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Microsoft.Pra
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWebApi1.csprojResolveAssemblyReference.cache
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWebApi1.dll
 C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\obj\Debug\SDataWebApi1.pdb
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Sage.SDataHandler.dll
+C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\SDataWebApi1\bin\Sage.SDataHandler.pdb

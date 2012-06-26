@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace WebApiSDataProvider.SData
+namespace Sage.SDataHandler
 {
     public class SDataHandler : DelegatingHandler
     {
