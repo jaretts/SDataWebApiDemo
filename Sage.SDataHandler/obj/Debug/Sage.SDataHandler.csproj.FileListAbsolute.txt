@@ -1,8 +1,0 @@
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\Sage.SDataHandler\bin\Debug\Sage.SDataHandler.dll
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\Sage.SDataHandler\bin\Debug\Sage.SDataHandler.pdb
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\Sage.SDataHandler\bin\Debug\Newtonsoft.Json.dll
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\Sage.SDataHandler\bin\Debug\System.Net.Http.Formatting.dll
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\Sage.SDataHandler\bin\Debug\System.Web.Http.dll
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\Sage.SDataHandler\bin\Debug\System.Web.Http.WebHost.dll
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\Sage.SDataHandler\obj\Debug\Sage.SDataHandler.dll
-C:\Users\jaretts\Documents\GitHub\SDataWebApiDemo\Sage.SDataHandler\obj\Debug\Sage.SDataHandler.pdb
