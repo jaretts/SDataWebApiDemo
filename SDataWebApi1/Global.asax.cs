@@ -42,7 +42,7 @@ namespace WebApiSDataProvider
             UnityContainer unity = new UnityContainer();
             
             // Register the Customer Controller
-            unity.RegisterType<CustomersController>();
+            unity.RegisterType<CustomerController>();
 
             // Register the Repository for the CustomerController, need to provide a constructor with MongoDB Collection Name
             unity.RegisterType<IRepository<Customer>, MongoRepository<Customer>>(
