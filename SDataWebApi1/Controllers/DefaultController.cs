@@ -17,6 +17,11 @@ namespace WebApiSDataProvider.Controllers
             this.respository = respository;
         }
 
+        virtual public T GetTemplate()
+        {
+            return respository.GetTemplate();
+        }
+
         /// GET api/default
         /// Must have Queryable attribute or OData does not work
         [Queryable] 

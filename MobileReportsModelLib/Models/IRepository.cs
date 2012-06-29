@@ -9,5 +9,7 @@ namespace MobileReports.Models
     public interface IRepository<T> where T : MobileModelEntity // class
     {
         IQueryable<T> GetAll();
+
+        T GetTemplate();
     }
 }

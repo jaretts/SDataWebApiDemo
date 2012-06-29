@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using MobileReports.Models;
 using MongoDB.Driver;
@@ -25,6 +26,19 @@ namespace MongoRepository.Repository
             MongoCollection<T> pcollect = db.GetCollection<T>(collectionName);
             return pcollect.FindAllAs<T>().AsQueryable<T>();
         }
+
+        public T GetTemplate()
+        {
+            try
+            {
+                return (T)typeof(T).GetConstructor(new Type[] { }).Invoke(new object[] { });
+            }
+            catch
+            {
+                return default(T);
+            }
+        }
+
     }
 
 }

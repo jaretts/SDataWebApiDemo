@@ -18,17 +18,23 @@ namespace WebApiSDataProvider
                  routeTemplate: "sdata/{controller}('{selector}')",
                  defaults: new { selector = RouteParameter.Optional });
 
+            routes.MapHttpRoute("SDataTemplate", "sdata/{controller}/$template",
+                            new { action = "GetTemplate" },
+                            new { httpMethod = new HttpMethodConstraint(new string[] { "GET" }) });
+
             routes.MapHttpRoute(name: "SDataCollection",
                 routeTemplate: "sdata/{controller}/{query}",
-                defaults: new { query = RouteParameter.Optional });
-
-            routes.MapHttpRoute(name: "SDataGenericCollection",
-                routeTemplate: "sdata/-/{query}",
-                defaults: new { query = RouteParameter.Optional });
+                defaults: new { action = "Get", query = RouteParameter.Optional });
 
             routes.MapHttpRoute(name: "SDataCollectionFull",
                 routeTemplate: "sdata/-/-/-/{controller}/{query}",
+                defaults: new { action = "Get", query = RouteParameter.Optional });
+
+            /*
+            routes.MapHttpRoute(name: "SDataGenericCollection",
+                routeTemplate: "sdata/-/{query}",
                 defaults: new { query = RouteParameter.Optional });
+            */
         }
     }
 }

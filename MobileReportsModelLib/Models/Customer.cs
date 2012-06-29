@@ -12,6 +12,13 @@ namespace MobileReports.Models
     [BsonIgnoreExtraElements]
     public class Customer : MobileModelEntity
     {
+        public Customer()
+        {
+            city = "Irvine";
+            state = "CA";
+            zipcode = "92614";
+        }
+
         [DataMember]
         public String customername { get; set; }
 
